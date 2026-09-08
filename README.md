@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/logo.png" alt="OWASP Browser Security Project" width="400">
+</p>
+
 # OWASP Browser Security Project
 
 The OWASP Browser Security Project raises awareness, provides education, and establishes best practices for securing modern web browsers. Browsers now serve as the primary execution environment for most applications, and this project offers clear, actionable guidance for identifying, mitigating, and preventing browser-layer threats.

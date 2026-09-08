@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../images/logo.png" alt="OWASP Browser Security Project" width="400">
+</p>
+
 # OWASP Browser Security Verification Standard (BSVS)
 
 [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
