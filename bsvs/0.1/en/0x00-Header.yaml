@@ -1,0 +1,13 @@
+---
+    title: "Browser Security Verification Standard 0.1"
+    subtitle: "Version 0.1 (Draft)"
+    date: September 2026
+    titlepage: true
+    titlepage-rule-height: 0
+    table-use-row-colors: true
+    toc: true
+    toc-own-page: true
+    geometry: "left=2cm,right=2cm,top=3cm,bottom=3cm"
+    mainfont: "Source Serif 4"
+    sansfont: "Source Sans 3"
+---

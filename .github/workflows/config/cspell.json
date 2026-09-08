@@ -1,0 +1,18 @@
+{
+  "version": "0.2",
+  "ignorePaths": [
+    "old_site/**",
+    "**/LICENSE.md",
+    "**/dist/**"
+  ],
+  "dictionaries": [
+    "en_US",
+    "local-custom"
+  ],
+  "dictionaryDefinitions": [
+    {
+      "name": "local-custom",
+      "path": "local-custom.txt"
+    }
+  ]
+}
